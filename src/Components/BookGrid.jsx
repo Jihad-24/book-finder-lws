@@ -4,7 +4,7 @@ import bookNpg from "../assets/Images/book.png";
 import start from "../assets/Images/star.svg";
 import Cart from "./Icons/Cart";
 import LoveLine from "./Icons/LoveLine";
-import LoveFill from "./Icons/loveFill";
+import LoveFill from "./Icons/LoveFill";
 
 const fixedbooks = [
     {
